@@ -1,4 +1,4 @@
-import React, { useContext, useRef, useState } from 'react'
+import React, { useRef, useState } from 'react'
 import './Navbar.css'
 import logo from '../Assets/logo.png'
 import nav_dropdown from '../Assets/nav_dropdown.png'
