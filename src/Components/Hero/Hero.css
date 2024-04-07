@@ -19,14 +19,6 @@
     font-size: 80px;   
     font-weight: 700;
 }
-.hero-hand-icon{
-    display: flex;
-    align-items: center;
-    gap: 20px;
-}
-.hero-hand-icon img{
-    width: 70px;
-}
 .hero-latest-btn{
     display: flex;
     justify-content: center;
