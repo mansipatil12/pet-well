@@ -17,6 +17,7 @@ const Hero = () => {
         </div>
         <div className="hero-latest-btn">
             <div>Chat with us</div>
+            
             <img src={arrow_icon} alt="" />
         </div>
       </div>

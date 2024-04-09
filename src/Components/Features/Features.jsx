@@ -10,7 +10,7 @@
 //export default Features
 
 import React from 'react';
-import './features.css';
+import './Features.css';
 
 const Feature = () => {
   return (

@@ -61,7 +61,7 @@ async def refresh_msg(nickname, msg_box):
         # remove expired
 
 if __name__ == "__main__":
-    start_server(main, debug=True, port=8080, cdn=True, remote_access=True)
+    start_server(main, debug=True, port=8088, cdn=True, remote_access=True)
 
 
 
