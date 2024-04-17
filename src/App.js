@@ -7,7 +7,7 @@ import Home from './Pages/Home';
 import Profile from './Pages/Profile';
 import Games from './Pages/Games';
 //import Community from './Pages/Community';
-//import Therapy from './Pages/Therapy';
+import Therapy from './Pages/Therapy';
 
 import Footer from './Components/Footer/Footer';
 function App() {
@@ -20,6 +20,7 @@ function App() {
        <Route path='/login' element={<LoginSignup/>}/>
        <Route path='/profile' element={<Profile/>}/>
        <Route path='/games' element={<Games/>}/>
+       <Route path='/therapy' element={<Therapy/>}/>
 
       </Routes>
       <Footer/>

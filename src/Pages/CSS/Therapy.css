@@ -1,0 +1,38 @@
+/* Therapy.css */
+
+.therapy-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.therapy-box {
+    width: 80%;
+    background-color: #f5f5f5;
+    padding: 100px;
+    margin: 10px 0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.therapy-box h2 {
+    color: #333;
+}
+
+.therapy-box p {
+    color: #666;
+}
+
+.therapy-box button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.therapy-box button:hover {
+    background-color: #0056b3;
+}
