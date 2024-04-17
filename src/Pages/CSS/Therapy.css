@@ -6,25 +6,24 @@
     align-items: center;
 }
 
-.therapy-box {
+.therapy-box-1 {
     width: 80%;
-    background-color: #f5f5f5;
     padding: 100px;
     margin: 10px 0;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
+    background: linear-gradient(80deg, #ffffff, #fff2e1)
 }
 
-.therapy-box h2 {
+.therapy-box-1 h2 {
     color: #333;
 }
 
-.therapy-box p {
+.therapy-box-1 p {
     color: #666;
 }
 
-.therapy-box button {
+.therapy-box-1 button {
     padding: 10px 20px;
     background-color: #007bff;
     color: #fff;
@@ -33,6 +32,66 @@
     cursor: pointer;
 }
 
-.therapy-box button:hover {
+.therapy-box-1 button:hover {
+    background-color: #0056b3;
+}
+
+.therapy-box-2 {
+    width: 80%;
+    padding: 100px;
+    margin: 10px 0;
+    border-radius: 10px;
+    text-align: center;
+    background: linear-gradient(80deg, #ead8c0, #ffffff)
+}
+
+.therapy-box-2 h2 {
+    color: #333;
+}
+
+.therapy-box-2 p {
+    color: #666;
+}
+
+.therapy-box-2 button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.therapy-box-3 {
+    width: 80%;
+    padding: 100px;
+    margin: 10px 0;
+    border-radius: 10px;
+    text-align: center;
+    background: linear-gradient(80deg, #ffffff, #fff2e1)
+}
+
+.therapy-box-3 h2 {
+    color: #333;
+}
+
+.therapy-box-3 p {
+    color: #666;
+}
+
+.therapy-box-3 button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.therapy-box-3 button:hover {
+    background-color: #0056b3;
+}
+
+.therapy-box-3 button:hover {
     background-color: #0056b3;
 }
