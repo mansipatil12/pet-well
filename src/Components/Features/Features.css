@@ -48,6 +48,11 @@
   margin-top: 0; /* Remove default margin for h3 */
 }
 
+.feature-1 .text {
+  grid-column: 2; /* Position the text in the second column of the grid */
+  text-align: left; /* Align text to the left */
+}
+
 .feature-2 {
   width: calc(100% - 40px); /* Set width to 100% minus the total horizontal padding */
   padding: 150px;
@@ -70,6 +75,7 @@
 .text {
   padding: 20px;
   border-radius: 0 5px 5px 0; /* Rounded corner on the right side */
+  text-align: right;
 }
 
 .text h3 {
@@ -98,11 +104,82 @@
 .text {
   padding: 20px;
   border-radius: 0 5px 5px 0; /* Rounded corner on the right side */
+  text-align: left;
 }
 
 .text h3 {
   margin-top: 0; /* Remove default margin for h3 */
 }
+
+.feature-3 .text {
+  grid-column: 2; /* Position the text in the second column of the grid */
+  text-align: left; /* Align text to the left */
+}
+
+.feature-4 {
+  width: calc(100% - 40px); /* Set width to 100% minus the total horizontal padding */
+  padding: 150px;
+  border: 0px solid #ccc;
+  border-radius: 0px;
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Two columns */
+  align-items: center;
+  margin-bottom: -1px; /* Add negative margin to pull boxes closer together */
+  background: linear-gradient(80deg, #ead8c0, #ffffff); 
+}
+
+.image {
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  border-radius: 5px 0 0 5px; /* Rounded corner on the left side */
+}
+
+.text {
+  padding: 20px;
+  border-radius: 0 5px 5px 0; /* Rounded corner on the right side */
+  text-align: right;
+}
+
+.text h3 {
+  margin-top: 0; /* Remove default margin for h3 */
+}
+
+
+.feature-5 {
+  width: calc(100% - 40px); /* Set width to 100% minus the total horizontal padding */
+  padding: 150px;
+  border: 0px solid #ccc;
+  border-radius: 0px;
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Two columns */
+  align-items: center;
+  margin-bottom: -1px; /* Add negative margin to pull boxes closer together */
+  background: linear-gradient(80deg, #ffffff, #fff2e1); 
+}
+
+.image {
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  border-radius: 5px 0 0 5px; /* Rounded corner on the left side */
+}
+
+.text {
+  padding: 20px;
+  border-radius: 0 5px 5px 0; /* Rounded corner on the right side */
+  text-align: right;
+}
+
+.text h3 {
+  margin-top: 0; /* Remove default margin for h3 */
+}
+
+.feature-5 .text {
+  grid-column: 2; /* Position the text in the second column of the grid */
+  text-align: left; /* Align text to the left */
+}
+
 
 
 
