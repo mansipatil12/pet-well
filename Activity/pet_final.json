@@ -1,0 +1,2018 @@
+[
+    {
+        "Pet Type": "cats",
+        "Emotion": "happy",
+        "Activity1": "Cuddle time",
+        "Activity2": " Play with toys",
+        "Activity3": " Purring session",
+        "Activity4": " Treat time",
+        "Activity5": " Nap time"
+    },
+    {
+        "Pet Type": "cats",
+        "Emotion": "sad",
+        "Activity1": "Quiet time alone",
+        "Activity2": " Soft petting",
+        "Activity3": " Comforting treats",
+        "Activity4": " Gentle play",
+        "Activity5": " Resting"
+    },
+    {
+        "Pet Type": "cats",
+        "Emotion": "fearful",
+        "Activity1": "Create a safe space",
+        "Activity2": " Gradual exposure to fears",
+        "Activity3": " Soft reassurance",
+        "Activity4": " Calming environment",
+        "Activity5": " Quiet play"
+    },
+    {
+        "Pet Type": "cats",
+        "Emotion": "anxious",
+        "Activity1": "Gentle approach",
+        "Activity2": " Soothing environment",
+        "Activity3": " Calming petting",
+        "Activity4": " Interactive toys",
+        "Activity5": " Create a routine"
+    },
+    {
+        "Pet Type": "cats",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain litter box",
+        "Activity2": " Fresh food and water",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable sleeping area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "cats",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Provide hiding spots",
+        "Activity3": " Allow time alone",
+        "Activity4": " Calm environment",
+        "Activity5": " Gentle interaction"
+    },
+    {
+        "Pet Type": "cats",
+        "Emotion": "traumatized",
+        "Activity1": "Gentle and patient interaction",
+        "Activity2": " Create a secure environment",
+        "Activity3": " Calm and soothing activities",
+        "Activity4": " Slow introduction to new things",
+        "Activity5": " Comfortable resting area"
+    },
+    {
+        "Pet Type": "cats",
+        "Emotion": "sleepless",
+        "Activity1": "Establish a bedtime routine",
+        "Activity2": " Create a quiet sleeping space",
+        "Activity3": " Provide comfortable bedding",
+        "Activity4": " Low lighting in the evening",
+        "Activity5": " Gentle play before bedtime"
+    },
+    {
+        "Pet Type": "cats",
+        "Emotion": "tired",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Soft blankets and cushions",
+        "Activity3": " Calm and quiet environment",
+        "Activity4": " Provide a cozy bed",
+        "Activity5": " Dim lighting"
+    },
+    {
+        "Pet Type": "cats",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new toys",
+        "Activity2": " Create an enriching environment",
+        "Activity3": " Gentle and unexpected interactions",
+        "Activity4": " Variety in daily routine",
+        "Activity5": " Interactive play"
+    },
+    {
+        "Pet Type": "cats",
+        "Emotion": "angry",
+        "Activity1": "Provide space and time alone",
+        "Activity2": " Avoid sudden movements",
+        "Activity3": " Respect boundaries",
+        "Activity4": " Offer favorite treats",
+        "Activity5": " Calm and soothing activities"
+    },
+    {
+        "Pet Type": "dogs",
+        "Emotion": "happy",
+        "Activity1": "Play fetch",
+        "Activity2": " Go for a run",
+        "Activity3": " Training session",
+        "Activity4": " Dog park visit",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "dogs",
+        "Emotion": "sad",
+        "Activity1": "Cuddle time",
+        "Activity2": " Gentle play indoors",
+        "Activity3": " Treat time",
+        "Activity4": " Quiet walk",
+        "Activity5": " Resting"
+    },
+    {
+        "Pet Type": "dogs",
+        "Emotion": "fearful",
+        "Activity1": "Create a safe space",
+        "Activity2": " Gradual exposure to fears",
+        "Activity3": " Gentle reassurance",
+        "Activity4": " Calming environment",
+        "Activity5": " Quiet play"
+    },
+    {
+        "Pet Type": "dogs",
+        "Emotion": "anxious",
+        "Activity1": "Provide a routine",
+        "Activity2": " Gentle exercise",
+        "Activity3": " Soothing environment",
+        "Activity4": " Interactive toys",
+        "Activity5": " Calming petting"
+    },
+    {
+        "Pet Type": "dogs",
+        "Emotion": "disgusted",
+        "Activity1": "Bath time",
+        "Activity2": " Grooming session",
+        "Activity3": " Fresh food and water",
+        "Activity4": " Playtime in a clean area",
+        "Activity5": " Comfortable sleeping area"
+    },
+    {
+        "Pet Type": "dogs",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Provide a safe retreat",
+        "Activity3": " Allow time alone",
+        "Activity4": " Calm environment",
+        "Activity5": " Gentle interaction"
+    },
+    {
+        "Pet Type": "dogs",
+        "Emotion": "traumatized",
+        "Activity1": "Gentle and patient interaction",
+        "Activity2": " Create a secure environment",
+        "Activity3": " Calm and soothing activities",
+        "Activity4": " Slow introduction to new things",
+        "Activity5": " Comfortable resting area"
+    },
+    {
+        "Pet Type": "dogs",
+        "Emotion": "sleepless",
+        "Activity1": "Establish a bedtime routine",
+        "Activity2": " Create a quiet sleeping space",
+        "Activity3": " Provide comfortable bedding",
+        "Activity4": " Low lighting in the evening",
+        "Activity5": " Gentle play before bedtime"
+    },
+    {
+        "Pet Type": "dogs",
+        "Emotion": "tired",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Soft blankets and cushions",
+        "Activity3": " Calm and quiet environment",
+        "Activity4": " Provide a cozy bed",
+        "Activity5": " Dim lighting"
+    },
+    {
+        "Pet Type": "dogs",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new toys",
+        "Activity2": " Create an enriching environment",
+        "Activity3": " Gentle and unexpected interactions",
+        "Activity4": " Variety in daily routine",
+        "Activity5": " Interactive play"
+    },
+    {
+        "Pet Type": "dogs",
+        "Emotion": "angry",
+        "Activity1": "Provide space and time alone",
+        "Activity2": " Avoid sudden movements",
+        "Activity3": " Respect boundaries",
+        "Activity4": " Offer favorite treats",
+        "Activity5": " Calm and soothing activities"
+    },
+    {
+        "Pet Type": "birds",
+        "Emotion": "happy",
+        "Activity1": "Singing session",
+        "Activity2": " Provide varied perches",
+        "Activity3": " Play with bird toys",
+        "Activity4": " Fresh fruits and vegetables",
+        "Activity5": " Bath time"
+    },
+    {
+        "Pet Type": "birds",
+        "Emotion": "sad",
+        "Activity1": "Comfortable resting spot",
+        "Activity2": " Gentle petting",
+        "Activity3": " Quiet environment",
+        "Activity4": " Soft music",
+        "Activity5": " Favorite treats"
+    },
+    {
+        "Pet Type": "birds",
+        "Emotion": "fearful",
+        "Activity1": "Provide a secure cage",
+        "Activity2": " Gradual exposure to new objects",
+        "Activity3": " Gentle reassurance",
+        "Activity4": " Calm environment",
+        "Activity5": " Quiet play"
+    },
+    {
+        "Pet Type": "birds",
+        "Emotion": "anxious",
+        "Activity1": "Create a routine",
+        "Activity2": " Soothing background noise",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Provide a cozy nest",
+        "Activity5": " Calming perches"
+    },
+    {
+        "Pet Type": "birds",
+        "Emotion": "disgusted",
+        "Activity1": "Clean cage and perches",
+        "Activity2": " Fresh food and water",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable sleeping area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "fish",
+        "Emotion": "happy",
+        "Activity1": "Decorate the tank",
+        "Activity2": " Provide hiding spots",
+        "Activity3": " Feed a variety of foods",
+        "Activity4": " Install a bubbler or filter",
+        "Activity5": " Observe from a distance"
+    },
+    {
+        "Pet Type": "fish",
+        "Emotion": "sad",
+        "Activity1": "Ensure water quality",
+        "Activity2": " Provide comfortable hiding places",
+        "Activity3": " Adjust tank lighting",
+        "Activity4": " Play soothing music",
+        "Activity5": " Offer favorite treats"
+    },
+    {
+        "Pet Type": "fish",
+        "Emotion": "fearful",
+        "Activity1": "Gradual introduction of new elements",
+        "Activity2": " Maintain a stable environment",
+        "Activity3": " Dim lighting during changes",
+        "Activity4": " Provide gentle water flow",
+        "Activity5": " Keep noise levels low"
+    },
+    {
+        "Pet Type": "fish",
+        "Emotion": "anxious",
+        "Activity1": "Keep a consistent feeding schedule",
+        "Activity2": " Provide a hiding spot",
+        "Activity3": " Avoid sudden movements",
+        "Activity4": " Gradual changes in the tank setup",
+        "Activity5": " Calm and gentle interactions"
+    },
+    {
+        "Pet Type": "fish",
+        "Emotion": "disgusted",
+        "Activity1": "Clean the tank regularly",
+        "Activity2": " Monitor water conditions",
+        "Activity3": " Remove uneaten food",
+        "Activity4": " Provide a well-balanced diet",
+        "Activity5": " Maintain a healthy environment"
+    },
+    {
+        "Pet Type": "leopard gecko",
+        "Emotion": "happy",
+        "Activity1": "Provide a warm and cozy habitat",
+        "Activity2": " Offer a variety of insects",
+        "Activity3": " Create hiding spots",
+        "Activity4": " Provide a basking area",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "leopard gecko",
+        "Emotion": "sad",
+        "Activity1": "Ensure proper temperature and humidity",
+        "Activity2": " Provide a quiet environment",
+        "Activity3": " Offer a comfortable hiding spot",
+        "Activity4": " Provide a balanced diet",
+        "Activity5": " Gentle interactions"
+    },
+    {
+        "Pet Type": "leopard gecko",
+        "Emotion": "fearful",
+        "Activity1": "Gradual introduction to new environments",
+        "Activity2": " Provide secure hiding spots",
+        "Activity3": " Gentle handling",
+        "Activity4": " Maintain consistent feeding schedule",
+        "Activity5": " Avoid sudden movements"
+    },
+    {
+        "Pet Type": "leopard gecko",
+        "Emotion": "anxious",
+        "Activity1": "Provide a routine",
+        "Activity2": " Create a secure habitat",
+        "Activity3": " Gradual interactions",
+        "Activity4": " Offer a variety of hiding spots",
+        "Activity5": " Maintain a stable environment"
+    },
+    {
+        "Pet Type": "leopard gecko",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the habitat",
+        "Activity2": " Offer a variety of insects",
+        "Activity3": " Provide fresh water",
+        "Activity4": " Grooming session",
+        "Activity5": " Monitor overall health"
+    },
+    {
+        "Pet Type": "leopard gecko",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Avoid excessive handling",
+        "Activity3": " Provide hiding spots",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite treats"
+    },
+    {
+        "Pet Type": "leopard gecko",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure and quiet environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Provide a comfortable resting area",
+        "Activity5": " Gentle interactions"
+    },
+    {
+        "Pet Type": "leopard gecko",
+        "Emotion": "sleepless",
+        "Activity1": "Ensure proper lighting schedule",
+        "Activity2": " Create a quiet nighttime environment",
+        "Activity3": " Provide a comfortable hiding spot",
+        "Activity4": " Monitor temperature",
+        "Activity5": " Offer a balanced diet"
+    },
+    {
+        "Pet Type": "leopard gecko",
+        "Emotion": "tired",
+        "Activity1": "Provide a cozy and comfortable resting area",
+        "Activity2": " Maintain proper temperature",
+        "Activity3": " Ensure a quiet environment",
+        "Activity4": " Offer a variety of hiding spots",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "leopard gecko",
+        "Emotion": "surprised",
+        "Activity1": "Introduce novel items in the habitat",
+        "Activity2": " Offer new types of insects",
+        "Activity3": " Rearrange hiding spots",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from a distance"
+    },
+    {
+        "Pet Type": "bearded dragon",
+        "Emotion": "happy",
+        "Activity1": "Bask under proper lighting",
+        "Activity2": " Offer a variety of insects",
+        "Activity3": " Create a comfortable basking area",
+        "Activity4": " Gentle handling",
+        "Activity5": " Provide a spacious habitat"
+    },
+    {
+        "Pet Type": "bearded dragon",
+        "Emotion": "sad",
+        "Activity1": "Ensure proper temperature and lighting",
+        "Activity2": " Provide a quiet environment",
+        "Activity3": " Offer a comfortable resting spot",
+        "Activity4": " Provide a balanced diet",
+        "Activity5": " Gentle interactions"
+    },
+    {
+        "Pet Type": "bearded dragon",
+        "Emotion": "fearful",
+        "Activity1": "Gradual introduction to new environments",
+        "Activity2": " Provide secure hiding spots",
+        "Activity3": "",
+        "Activity4": "",
+        "Activity5": ""
+    },
+    {
+        "Pet Type": "hens",
+        "Emotion": "happy",
+        "Activity1": "Free-range pecking",
+        "Activity2": " Dust bathing",
+        "Activity3": " Sunbathing",
+        "Activity4": " Foraging for insects",
+        "Activity5": " Fresh water and feed"
+    },
+    {
+        "Pet Type": "hens",
+        "Emotion": "sad",
+        "Activity1": "Provide comfortable roosting",
+        "Activity2": " Quiet environment",
+        "Activity3": " Fresh straw bedding",
+        "Activity4": " Offer nutritious treats",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "hens",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new surroundings",
+        "Activity2": " Provide hiding spots",
+        "Activity3": " Gentle reassurance",
+        "Activity4": " Calm environment",
+        "Activity5": " Quiet feed time"
+    },
+    {
+        "Pet Type": "hens",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide secure coop",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of perches",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "hens",
+        "Emotion": "disgusted",
+        "Activity1": "Clean coop regularly",
+        "Activity2": " Provide fresh water and feed",
+        "Activity3": " Dust bathing area",
+        "Activity4": " Grooming session",
+        "Activity5": " Comfortable nesting boxes"
+    },
+    {
+        "Pet Type": "hens",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle handling",
+        "Activity3": " Offer nesting privacy",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Provide favorite treats"
+    },
+    {
+        "Pet Type": "hens",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure coop environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable roosting spots"
+    },
+    {
+        "Pet Type": "hens",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet coop",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable roosting bars",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "hens",
+        "Emotion": "tired",
+        "Activity1": "Comfortable nesting boxes",
+        "Activity2": " Soft bedding",
+        "Activity3": " Calm and quiet coop",
+        "Activity4": " Provide a cozy roosting area",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "hens",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new foraging opportunities",
+        "Activity2": " Offer novel treats",
+        "Activity3": " Rearrange coop layout",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from a distance"
+    },
+    {
+        "Pet Type": "cows",
+        "Emotion": "happy",
+        "Activity1": "Open pasture grazing",
+        "Activity2": " Sunbathing",
+        "Activity3": " Fresh water source",
+        "Activity4": " Provide shade",
+        "Activity5": " Grooming session"
+    },
+    {
+        "Pet Type": "cows",
+        "Emotion": "sad",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Quiet environment",
+        "Activity3": " Gentle grooming",
+        "Activity4": " Provide fresh hay",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "cows",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new surroundings",
+        "Activity2": " Provide secure fencing",
+        "Activity3": " Calm interactions",
+        "Activity4": " Quiet feeding time",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "cows",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide a routine for milking",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of forage",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "cows",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the barn",
+        "Activity2": " Fresh water and feed",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable resting area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "cows",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle grooming",
+        "Activity3": " Provide shade",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite treats"
+    },
+    {
+        "Pet Type": "cows",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure barn environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable resting area"
+    },
+    {
+        "Pet Type": "cows",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet barn",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable resting area",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "cows",
+        "Emotion": "tired",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Soft bedding",
+        "Activity3": " Calm and quiet barn",
+        "Activity4": " Provide a cozy stall",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "cows",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new foraging opportunities",
+        "Activity2": " Offer novel treats",
+        "Activity3": " Rearrange barn layout",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from a distance"
+    },
+    {
+        "Pet Type": "buffalo",
+        "Emotion": "happy",
+        "Activity1": "Open pasture grazing",
+        "Activity2": " Sunbathing",
+        "Activity3": " Fresh water source",
+        "Activity4": " Provide shade",
+        "Activity5": " Grooming session"
+    },
+    {
+        "Pet Type": "buffalo",
+        "Emotion": "sad",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Quiet environment",
+        "Activity3": " Gentle grooming",
+        "Activity4": " Provide fresh hay",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "buffalo",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new surroundings",
+        "Activity2": " Provide secure fencing",
+        "Activity3": " Calm interactions",
+        "Activity4": " Quiet feeding time",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "buffalo",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide a routine for milking",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of forage",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "buffalo",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the barn",
+        "Activity2": " Fresh water and feed",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable resting area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "buffalo",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle grooming",
+        "Activity3": " Provide shade",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite treats"
+    },
+    {
+        "Pet Type": "buffalo",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure barn environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable resting area"
+    },
+    {
+        "Pet Type": "buffalo",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet barn",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable resting area",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "buffalo",
+        "Emotion": "tired",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Soft bedding",
+        "Activity3": " Calm and quiet barn",
+        "Activity4": " Provide a cozy stall",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "buffalo",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new foraging opportunities",
+        "Activity2": " Offer novel treats",
+        "Activity3": " Rearrange barn layout",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from a distance"
+    },
+    {
+        "Pet Type": "goats",
+        "Emotion": "happy",
+        "Activity1": "Open pasture grazing",
+        "Activity2": " Climbing structures",
+        "Activity3": " Fresh water source",
+        "Activity4": " Provide shade",
+        "Activity5": " Grooming session"
+    },
+    {
+        "Pet Type": "goats",
+        "Emotion": "sad",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Quiet environment",
+        "Activity3": " Gentle grooming",
+        "Activity4": " Provide fresh hay",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "goats",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new surroundings",
+        "Activity2": " Provide secure fencing",
+        "Activity3": " Calm interactions",
+        "Activity4": " Quiet feeding time",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "goats",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide climbing opportunities",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of forage",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "goats",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the barn",
+        "Activity2": " Fresh water and feed",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable resting area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "goats",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle grooming",
+        "Activity3": " Provide shade",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite treats"
+    },
+    {
+        "Pet Type": "goats",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure barn environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable resting area"
+    },
+    {
+        "Pet Type": "goats",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet barn",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable resting area",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "goats",
+        "Emotion": "tired",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Soft bedding",
+        "Activity3": " Calm and quiet barn",
+        "Activity4": " Provide a cozy stall",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "goats",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new climbing structures",
+        "Activity2": " Offer novel treats",
+        "Activity3": " Rearrange barn layout",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from a distance"
+    },
+    {
+        "Pet Type": "sheep",
+        "Emotion": "happy",
+        "Activity1": "Open pasture grazing",
+        "Activity2": " Sunbathing",
+        "Activity3": " Fresh water source",
+        "Activity4": " Provide shade",
+        "Activity5": " Grooming session"
+    },
+    {
+        "Pet Type": "sheep",
+        "Emotion": "sad",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Quiet environment",
+        "Activity3": " Gentle grooming",
+        "Activity4": " Provide fresh hay",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "sheep",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new surroundings",
+        "Activity2": " Provide secure fencing",
+        "Activity3": " Calm interactions",
+        "Activity4": " Quiet feeding time",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "sheep",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide shade",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of forage",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "sheep",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the barn",
+        "Activity2": " Fresh water and feed",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable resting area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "sheep",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle grooming",
+        "Activity3": " Provide shade",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite treats"
+    },
+    {
+        "Pet Type": "sheep",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure barn environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable resting area"
+    },
+    {
+        "Pet Type": "sheep",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet barn",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable resting area",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "sheep",
+        "Emotion": "tired",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Soft bedding",
+        "Activity3": " Calm and quiet barn",
+        "Activity4": " Provide a cozy stall",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "sheep",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new foraging opportunities",
+        "Activity2": " Offer novel treats",
+        "Activity3": " Rearrange barn layout",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from distance"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "happy",
+        "Activity1": "Play with toys",
+        "Activity2": " Provide a digging box",
+        "Activity3": " Free-roam time",
+        "Activity4": " Fresh vegetables",
+        "Activity5": " Grooming session"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "sad",
+        "Activity1": "Gentle petting",
+        "Activity2": " Quiet environment",
+        "Activity3": " Favorite treats",
+        "Activity4": " Comfortable resting area",
+        "Activity5": " Cozy bedding"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new environments",
+        "Activity2": " Provide hiding spots",
+        "Activity3": " Gentle reassurance",
+        "Activity4": " Calm environment",
+        "Activity5": " Quiet playtime"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "anxious",
+        "Activity1": "Establish a routine",
+        "Activity2": " Provide a secure enclosure",
+        "Activity3": " Gentle handling",
+        "Activity4": " Offer a variety of toys",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain living space",
+        "Activity2": " Fresh hay and water",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable resting area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Provide hiding spots",
+        "Activity3": " Calm environment",
+        "Activity4": " Gentle interaction",
+        "Activity5": " Offer favorite treats"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "traumatized",
+        "Activity1": "Gentle and patient interaction",
+        "Activity2": " Create a secure environment",
+        "Activity3": " Calm and soothing activities",
+        "Activity4": " Slow introduction to new things",
+        "Activity5": " Comfortable resting area"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "sleepless",
+        "Activity1": "Establish a bedtime routine",
+        "Activity2": " Provide a quiet sleeping area",
+        "Activity3": " Comfortable bedding",
+        "Activity4": " Low lighting in the evening",
+        "Activity5": " Gentle play before bedtime"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "tired",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Soft blankets and cushions",
+        "Activity3": " Calm and quiet environment",
+        "Activity4": " Provide a cozy bed",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new toys",
+        "Activity2": " Create an enriching environment",
+        "Activity3": " Gentle and unexpected interactions",
+        "Activity4": " Variety in daily routine",
+        "Activity5": " Interactive play"
+    },
+    {
+        "Pet Type": "mice",
+        "Emotion": "happy",
+        "Activity1": "Exploring time",
+        "Activity2": " Provide a variety of toys",
+        "Activity3": " Climbing structures",
+        "Activity4": " Fresh water source",
+        "Activity5": " Social interaction"
+    },
+    {
+        "Pet Type": "mice",
+        "Emotion": "sad",
+        "Activity1": "Comfortable nesting area",
+        "Activity2": " Quiet environment",
+        "Activity3": " Gentle handling",
+        "Activity4": " Provide fresh bedding",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "mice",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new surroundings",
+        "Activity2": " Provide secure enclosure",
+        "Activity3": " Calm interactions",
+        "Activity4": " Quiet feeding time",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "mice",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide a hiding spot",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of toys",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "mice",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the habitat",
+        "Activity2": " Fresh water and feed",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable resting area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "mice",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle handling",
+        "Activity3": " Provide hiding spots",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite treats"
+    },
+    {
+        "Pet Type": "mice",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure habitat environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable nesting area"
+    },
+    {
+        "Pet Type": "mice",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet habitat",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable nesting area",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "mice",
+        "Emotion": "tired",
+        "Activity1": "Comfortable nesting area",
+        "Activity2": " Soft bedding",
+        "Activity3": " Calm and quiet habitat",
+        "Activity4": " Provide a cozy area",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "mice",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new toys",
+        "Activity2": " Offer novel treats",
+        "Activity3": " Rearrange habitat layout",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from a distance"
+    },
+    {
+        "Pet Type": "sugar glider",
+        "Emotion": "happy",
+        "Activity1": "Provide a spacious habitat",
+        "Activity2": " Offer a variety of toys",
+        "Activity3": " Climbing structures",
+        "Activity4": " Fresh fruit treats",
+        "Activity5": " Social interaction"
+    },
+    {
+        "Pet Type": "sugar glider",
+        "Emotion": "sad",
+        "Activity1": "Comfortable sleeping area",
+        "Activity2": " Quiet environment",
+        "Activity3": " Gentle handling",
+        "Activity4": " Provide fresh bedding",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "sugar glider",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new environments",
+        "Activity2": " Provide secure enclosure",
+        "Activity3": " Calm interactions",
+        "Activity4": " Quiet feeding time",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "sugar glider",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide a hiding spot",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of toys",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "sugar glider",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the habitat",
+        "Activity2": " Fresh water and feed",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable sleeping area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "sugar glider",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle handling",
+        "Activity3": " Provide hiding spots",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite treats"
+    },
+    {
+        "Pet Type": "sugar glider",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure habitat environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable sleeping area"
+    },
+    {
+        "Pet Type": "sugar glider",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet habitat",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable sleeping area",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "sugar glider",
+        "Emotion": "tired",
+        "Activity1": "Comfortable sleeping area",
+        "Activity2": " Soft bedding",
+        "Activity3": " Calm and quiet habitat",
+        "Activity4": " Provide a cozy area",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "sugar glider",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new toys",
+        "Activity2": " Offer novel treats",
+        "Activity3": " Rearrange habitat layout",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from a distance"
+    },
+    {
+        "Pet Type": "fennec fox",
+        "Emotion": "happy",
+        "Activity1": "Exploring time",
+        "Activity2": " Provide a variety of toys",
+        "Activity3": " Climbing structures",
+        "Activity4": " Fresh water source",
+        "Activity5": " Social interaction"
+    },
+    {
+        "Pet Type": "fennec fox",
+        "Emotion": "sad",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Quiet environment",
+        "Activity3": " Gentle handling",
+        "Activity4": " Provide fresh bedding",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "fennec fox",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new surroundings",
+        "Activity2": " Provide secure enclosure",
+        "Activity3": " Calm interactions",
+        "Activity4": " Quiet feeding time",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "fennec fox",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide a hiding spot",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of toys",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "fennec fox",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the habitat",
+        "Activity2": " Fresh water and feed",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable resting area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "fennec fox",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle handling",
+        "Activity3": " Provide hiding spots",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite treats"
+    },
+    {
+        "Pet Type": "fennec fox",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure habitat environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable resting area"
+    },
+    {
+        "Pet Type": "fennec fox",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet habitat",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable resting area",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "fennec fox",
+        "Emotion": "tired",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Soft bedding",
+        "Activity3": " Calm and quiet habitat",
+        "Activity4": " Provide a cozy area",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "fennec fox",
+        "Emotion": "surprised",
+        "Activity1": "play outdoor games",
+        "Activity2": "Gentle interactions",
+        "Activity3": "Offer favorite treats",
+        "Activity4": "",
+        "Activity5": ""
+    },
+    {
+        "Pet Type": "monkeys",
+        "Emotion": "happy",
+        "Activity1": "Provide a spacious and enriched enclosure",
+        "Activity2": " Offer a variety of toys",
+        "Activity3": " Fresh fruits and vegetables",
+        "Activity4": " Social interaction",
+        "Activity5": " Climbing structures"
+    },
+    {
+        "Pet Type": "monkeys",
+        "Emotion": "sad",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Quiet environment",
+        "Activity3": " Gentle handling",
+        "Activity4": " Provide fresh water",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "monkeys",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new surroundings",
+        "Activity2": " Provide secure enclosure",
+        "Activity3": " Calm interactions",
+        "Activity4": " Quiet feeding time",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "monkeys",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide a hiding spot",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of toys",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "monkeys",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the enclosure",
+        "Activity2": " Fresh water and feed",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable resting area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "monkeys",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle handling",
+        "Activity3": " Provide climbing structures",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite fruits"
+    },
+    {
+        "Pet Type": "monkeys",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure enclosure environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable resting area"
+    },
+    {
+        "Pet Type": "monkeys",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet enclosure",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable resting area",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "monkeys",
+        "Emotion": "tired",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Soft bedding",
+        "Activity3": " Calm and quiet enclosure",
+        "Activity4": " Provide a cozy spot",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "monkeys",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new toys",
+        "Activity2": " Offer novel treats",
+        "Activity3": " Rearrange enclosure layout",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from a distance"
+    },
+    {
+        "Pet Type": "frogs",
+        "Emotion": "happy",
+        "Activity1": "Provide a comfortable aquatic habitat",
+        "Activity2": " Offer a variety of insects",
+        "Activity3": " Sunbathing",
+        "Activity4": " Fresh water source",
+        "Activity5": " Social interaction"
+    },
+    {
+        "Pet Type": "frogs",
+        "Emotion": "sad",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Quiet environment",
+        "Activity3": " Gentle handling",
+        "Activity4": " Provide fresh water",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "frogs",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new surroundings",
+        "Activity2": " Provide secure habitat",
+        "Activity3": " Calm interactions",
+        "Activity4": " Quiet feeding time",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "frogs",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide a hiding spot",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of insects",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "frogs",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the habitat",
+        "Activity2": " Fresh water and feed",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable resting area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "frogs",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle handling",
+        "Activity3": " Provide hiding spots",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite insects"
+    },
+    {
+        "Pet Type": "frogs",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure habitat environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable resting area"
+    },
+    {
+        "Pet Type": "frogs",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet habitat",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable resting area",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "frogs",
+        "Emotion": "tired",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Soft substrate",
+        "Activity3": " Calm and quiet habitat",
+        "Activity4": " Provide a cozy spot",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "frogs",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new aquatic features",
+        "Activity2": " Offer novel insects",
+        "Activity3": " Rearrange habitat layout",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from a distance"
+    },
+    {
+        "Pet Type": "butterflies",
+        "Emotion": "happy",
+        "Activity1": "Provide a spacious and sunny environment",
+        "Activity2": " Offer a variety of nectar sources",
+        "Activity3": " Fresh fruits",
+        "Activity4": " Sunbathing",
+        "Activity5": " Social interaction"
+    },
+    {
+        "Pet Type": "butterflies",
+        "Emotion": "sad",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Quiet environment",
+        "Activity3": " Gentle handling",
+        "Activity4": " Provide fresh nectar",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "butterflies",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new surroundings",
+        "Activity2": " Provide secure habitat",
+        "Activity3": " Calm interactions",
+        "Activity4": " Quiet feeding time",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "butterflies",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide a hiding spot",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of nectar",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "butterflies",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the habitat",
+        "Activity2": " Fresh water and fruits",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable resting area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "butterflies",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle handling",
+        "Activity3": " Provide resting spots",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite nectar"
+    },
+    {
+        "Pet Type": "butterflies",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure habitat environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable resting area"
+    },
+    {
+        "Pet Type": "butterflies",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet habitat",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable resting area",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "butterflies",
+        "Emotion": "tired",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Soft substrate",
+        "Activity3": " Calm and quiet habitat",
+        "Activity4": " Provide a cozy spot",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "butterflies",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new nectar sources",
+        "Activity2": " Offer novel fruits",
+        "Activity3": " Rearrange habitat layout",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from a distance"
+    },
+    {
+        "Pet Type": "parrots",
+        "Emotion": "happy",
+        "Activity1": "Provide a spacious cage",
+        "Activity2": " Offer a variety of toys",
+        "Activity3": " Fresh fruits and vegetables",
+        "Activity4": " Social interaction",
+        "Activity5": " Mimicry play"
+    },
+    {
+        "Pet Type": "parrots",
+        "Emotion": "sad",
+        "Activity1": "Comfortable perching area",
+        "Activity2": " Quiet environment",
+        "Activity3": " Gentle handling",
+        "Activity4": " Provide fresh water",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "parrots",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new surroundings",
+        "Activity2": " Provide secure cage",
+        "Activity3": " Calm interactions",
+        "Activity4": " Quiet feeding time",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "parrots",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide a hiding spot",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of toys",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "parrots",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the cage",
+        "Activity2": " Fresh water and feed",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable perching area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "parrots",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle handling",
+        "Activity3": " Provide perching spots",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite treats"
+    },
+    {
+        "Pet Type": "parrots",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure cage environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable perching area"
+    },
+    {
+        "Pet Type": "parrots",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet cage",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable perching area",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "parrots",
+        "Emotion": "tired",
+        "Activity1": "Comfortable perching area",
+        "Activity2": " Soft bedding",
+        "Activity3": " Calm and quiet cage",
+        "Activity4": " Provide a cozy spot",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "parrots",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new toys",
+        "Activity2": " Offer novel treats",
+        "Activity3": " Rearrange cage layout",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from a distance"
+    },
+    {
+        "Pet Type": "pigs",
+        "Emotion": "happy",
+        "Activity1": "Provide a spacious and enriched pen",
+        "Activity2": " Mud bath",
+        "Activity3": " Fresh vegetables and fruits",
+        "Activity4": " Social interaction",
+        "Activity5": " Rooting play"
+    },
+    {
+        "Pet Type": "pigs",
+        "Emotion": "sad",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Quiet environment",
+        "Activity3": " Gentle handling",
+        "Activity4": " Provide fresh water",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "pigs",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new surroundings",
+        "Activity2": " Provide secure pen",
+        "Activity3": " Calm interactions",
+        "Activity4": " Quiet feeding time",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "pigs",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide a hiding spot",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of vegetables",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "pigs",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the pen",
+        "Activity2": " Fresh water and feed",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable resting area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "pigs",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle handling",
+        "Activity3": " Provide rooting spots",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite treats"
+    },
+    {
+        "Pet Type": "pigs",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure pen environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable resting area"
+    },
+    {
+        "Pet Type": "pigs",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet pen",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable resting area",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "pigs",
+        "Emotion": "tired",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Soft bedding",
+        "Activity3": " Calm and quiet pen",
+        "Activity4": " Provide a cozy spot",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "pigs",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new rooting opportunities",
+        "Activity2": " Offer novel vegetables",
+        "Activity3": " Rearrange pen layout",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from a distance"
+    },
+    {
+        "Pet Type": "owls",
+        "Emotion": "sad",
+        "Activity1": "Comfortable roosting area",
+        "Activity2": " Quiet environment",
+        "Activity3": " Gentle handling",
+        "Activity4": " Provide fresh water",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "owls",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new surroundings",
+        "Activity2": " Provide secure roosting area",
+        "Activity3": " Calm interactions",
+        "Activity4": " Quiet feeding time",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "owls",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide a hiding spot",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of prey",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "owls",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the roosting area",
+        "Activity2": " Fresh water and feed",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable roosting area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "owls",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle handling",
+        "Activity3": " Provide roosting spots",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite prey"
+    },
+    {
+        "Pet Type": "owls",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure roosting area environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable roosting area"
+    },
+    {
+        "Pet Type": "owls",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet roosting area",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable roosting area",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "owls",
+        "Emotion": "tired",
+        "Activity1": "Comfortable roosting area",
+        "Activity2": " Soft bedding",
+        "Activity3": " Calm and quiet roosting area",
+        "Activity4": " Provide a cozy spot",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "owls",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new prey options",
+        "Activity2": " Offer novel treats",
+        "Activity3": " Rearrange roosting area layout",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from a distance"
+    },
+    {
+        "Pet Type": "hamsters",
+        "Emotion": "happy",
+        "Activity1": "Provide a cozy and enriched cage",
+        "Activity2": " Exercise wheel",
+        "Activity3": " Fresh fruits and vegetables",
+        "Activity4": " Social interaction",
+        "Activity5": " Tunnels and hiding spots"
+    },
+    {
+        "Pet Type": "hamsters",
+        "Emotion": "sad",
+        "Activity1": "Comfortable bedding",
+        "Activity2": " Quiet environment",
+        "Activity3": " Gentle handling",
+        "Activity4": " Provide fresh water",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "hamsters",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new surroundings",
+        "Activity2": " Provide secure cage",
+        "Activity3": " Calm interactions",
+        "Activity4": " Quiet feeding time",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "hamsters",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide a hiding spot",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of treats",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "hamsters",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the cage",
+        "Activity2": " Fresh water and feed",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable bedding",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "hamsters",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle handling",
+        "Activity3": " Provide climbing structures",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite treats"
+    },
+    {
+        "Pet Type": "hamsters",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure cage environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable bedding"
+    },
+    {
+        "Pet Type": "hamsters",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet cage",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable bedding",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "hamsters",
+        "Emotion": "tired",
+        "Activity1": "Comfortable bedding",
+        "Activity2": " Soft substrate",
+        "Activity3": " Calm and quiet cage",
+        "Activity4": " Provide a cozy spot",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "hamsters",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new toys",
+        "Activity2": " Offer novel treats",
+        "Activity3": " Rearrange cage layout",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from a distance"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "happy",
+        "Activity1": "Spacious and enriched enclosure",
+        "Activity2": " Hay and fresh vegetables",
+        "Activity3": " Social interaction",
+        "Activity4": " Provide tunnels for play",
+        "Activity5": " Grooming time"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "sad",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Quiet environment",
+        "Activity3": " Gentle handling",
+        "Activity4": " Provide fresh water",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new surroundings",
+        "Activity2": " Provide secure enclosure",
+        "Activity3": " Calm interactions",
+        "Activity4": " Quiet feeding time",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide a hiding spot",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of vegetables",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the enclosure",
+        "Activity2": " Fresh water and feed",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable resting area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle handling",
+        "Activity3": " Provide hopping spaces",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite vegetables"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure enclosure environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable resting area"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet enclosure",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable resting area",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "tired",
+        "Activity1": "Comfortable resting area",
+        "Activity2": " Soft bedding",
+        "Activity3": " Calm and quiet enclosure",
+        "Activity4": " Provide a cozy spot",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "rabbits",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new toys",
+        "Activity2": " Offer novel treats",
+        "Activity3": " Rearrange enclosure layout",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from a distance"
+    },
+    {
+        "Pet Type": "turtles",
+        "Emotion": "happy",
+        "Activity1": "Spacious and aquatic habitat",
+        "Activity2": " Basking area",
+        "Activity3": " Fresh and varied diet",
+        "Activity4": " Social interaction",
+        "Activity5": " Provide hiding spots"
+    },
+    {
+        "Pet Type": "turtles",
+        "Emotion": "sad",
+        "Activity1": "Comfortable basking area",
+        "Activity2": " Quiet environment",
+        "Activity3": " Gentle handling",
+        "Activity4": " Provide fresh water",
+        "Activity5": " Treat time"
+    },
+    {
+        "Pet Type": "turtles",
+        "Emotion": "fearful",
+        "Activity1": "Gradual exposure to new surroundings",
+        "Activity2": " Provide secure habitat",
+        "Activity3": " Calm interactions",
+        "Activity4": " Quiet feeding time",
+        "Activity5": " Gentle handling"
+    },
+    {
+        "Pet Type": "turtles",
+        "Emotion": "anxious",
+        "Activity1": "Establish a feeding routine",
+        "Activity2": " Provide a hiding spot",
+        "Activity3": " Gentle interactions",
+        "Activity4": " Offer a variety of food",
+        "Activity5": " Calming background sounds"
+    },
+    {
+        "Pet Type": "turtles",
+        "Emotion": "disgusted",
+        "Activity1": "Clean and maintain the habitat",
+        "Activity2": " Fresh water and feed",
+        "Activity3": " Grooming session",
+        "Activity4": " Comfortable basking area",
+        "Activity5": " Treats"
+    },
+    {
+        "Pet Type": "turtles",
+        "Emotion": "hateful",
+        "Activity1": "Respect personal space",
+        "Activity2": " Gentle handling",
+        "Activity3": " Provide swimming spaces",
+        "Activity4": " Create a calm environment",
+        "Activity5": " Offer favorite food"
+    },
+    {
+        "Pet Type": "turtles",
+        "Emotion": "traumatized",
+        "Activity1": "Gradual reintroduction to handling",
+        "Activity2": " Create a secure habitat environment",
+        "Activity3": " Monitor overall health",
+        "Activity4": " Gentle interactions",
+        "Activity5": " Comfortable basking area"
+    },
+    {
+        "Pet Type": "turtles",
+        "Emotion": "sleepless",
+        "Activity1": "Provide a quiet habitat",
+        "Activity2": " Dim lighting during the night",
+        "Activity3": " Comfortable basking area",
+        "Activity4": " Ensure security",
+        "Activity5": " Offer calming sounds"
+    },
+    {
+        "Pet Type": "turtles",
+        "Emotion": "tired",
+        "Activity1": "Comfortable basking area",
+        "Activity2": " Soft substrate",
+        "Activity3": " Calm and quiet habitat",
+        "Activity4": " Provide a cozy spot",
+        "Activity5": " Dim lighting during rest"
+    },
+    {
+        "Pet Type": "turtles",
+        "Emotion": "surprised",
+        "Activity1": "Introduce new aquatic features",
+        "Activity2": " Offer novel food items",
+        "Activity3": " Rearrange habitat layout",
+        "Activity4": " Provide interactive toys",
+        "Activity5": " Observe from a distance"
+    }
+]

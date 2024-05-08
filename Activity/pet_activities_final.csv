@@ -1,0 +1,225 @@
+Pet Type,Emotion,Activity1,Activity2,Activity3,Activity4,Activity5
+cats,happy,Cuddle time, Play with toys, Purring session, Treat time, Nap time
+cats,sad,Quiet time alone, Soft petting, Comforting treats, Gentle play, Resting
+cats,fearful,Create a safe space, Gradual exposure to fears, Soft reassurance, Calming environment, Quiet play
+cats,anxious,Gentle approach, Soothing environment, Calming petting, Interactive toys, Create a routine
+cats,disgusted,Clean and maintain litter box, Fresh food and water, Grooming session, Comfortable sleeping area, Treats
+cats,hateful,Respect personal space, Provide hiding spots, Allow time alone, Calm environment, Gentle interaction
+cats,traumatized,Gentle and patient interaction, Create a secure environment, Calm and soothing activities, Slow introduction to new things, Comfortable resting area
+cats,sleepless,Establish a bedtime routine, Create a quiet sleeping space, Provide comfortable bedding, Low lighting in the evening, Gentle play before bedtime
+cats,tired,Comfortable resting area, Soft blankets and cushions, Calm and quiet environment, Provide a cozy bed, Dim lighting
+cats,surprised,Introduce new toys, Create an enriching environment, Gentle and unexpected interactions, Variety in daily routine, Interactive play
+cats,angry,Provide space and time alone, Avoid sudden movements, Respect boundaries, Offer favorite treats, Calm and soothing activities
+dogs,happy,Play fetch, Go for a run, Training session, Dog park visit, Treat time
+dogs,sad,Cuddle time, Gentle play indoors, Treat time, Quiet walk, Resting
+dogs,fearful,Create a safe space, Gradual exposure to fears, Gentle reassurance, Calming environment, Quiet play
+dogs,anxious,Provide a routine, Gentle exercise, Soothing environment, Interactive toys, Calming petting
+dogs,disgusted,Bath time, Grooming session, Fresh food and water, Playtime in a clean area, Comfortable sleeping area
+dogs,hateful,Respect personal space, Provide a safe retreat, Allow time alone, Calm environment, Gentle interaction
+dogs,traumatized,Gentle and patient interaction, Create a secure environment, Calm and soothing activities, Slow introduction to new things, Comfortable resting area
+dogs,sleepless,Establish a bedtime routine, Create a quiet sleeping space, Provide comfortable bedding, Low lighting in the evening, Gentle play before bedtime
+dogs,tired,Comfortable resting area, Soft blankets and cushions, Calm and quiet environment, Provide a cozy bed, Dim lighting
+dogs,surprised,Introduce new toys, Create an enriching environment, Gentle and unexpected interactions, Variety in daily routine, Interactive play
+dogs,angry,Provide space and time alone, Avoid sudden movements, Respect boundaries, Offer favorite treats, Calm and soothing activities
+birds,happy,Singing session, Provide varied perches, Play with bird toys, Fresh fruits and vegetables, Bath time
+birds,sad,Comfortable resting spot, Gentle petting, Quiet environment, Soft music, Favorite treats
+birds,fearful,Provide a secure cage, Gradual exposure to new objects, Gentle reassurance, Calm environment, Quiet play
+birds,anxious,Create a routine, Soothing background noise, Gentle interactions, Provide a cozy nest, Calming perches
+birds,disgusted,Clean cage and perches, Fresh food and water, Grooming session, Comfortable sleeping area, Treats
+fish,happy,Decorate the tank, Provide hiding spots, Feed a variety of foods, Install a bubbler or filter, Observe from a distance
+fish,sad,Ensure water quality, Provide comfortable hiding places, Adjust tank lighting, Play soothing music, Offer favorite treats
+fish,fearful,Gradual introduction of new elements, Maintain a stable environment, Dim lighting during changes, Provide gentle water flow, Keep noise levels low
+fish,anxious,Keep a consistent feeding schedule, Provide a hiding spot, Avoid sudden movements, Gradual changes in the tank setup, Calm and gentle interactions
+fish,disgusted,Clean the tank regularly, Monitor water conditions, Remove uneaten food, Provide a well-balanced diet, Maintain a healthy environment
+leopard gecko,happy,Provide a warm and cozy habitat, Offer a variety of insects, Create hiding spots, Provide a basking area, Gentle handling
+leopard gecko,sad,Ensure proper temperature and humidity, Provide a quiet environment, Offer a comfortable hiding spot, Provide a balanced diet, Gentle interactions
+leopard gecko,fearful,Gradual introduction to new environments, Provide secure hiding spots, Gentle handling, Maintain consistent feeding schedule, Avoid sudden movements
+leopard gecko,anxious,Provide a routine, Create a secure habitat, Gradual interactions, Offer a variety of hiding spots, Maintain a stable environment
+leopard gecko,disgusted,Clean and maintain the habitat, Offer a variety of insects, Provide fresh water, Grooming session, Monitor overall health
+leopard gecko,hateful,Respect personal space, Avoid excessive handling, Provide hiding spots, Create a calm environment, Offer favorite treats
+leopard gecko,traumatized,Gradual reintroduction to handling, Create a secure and quiet environment, Monitor overall health, Provide a comfortable resting area, Gentle interactions
+leopard gecko,sleepless,Ensure proper lighting schedule, Create a quiet nighttime environment, Provide a comfortable hiding spot, Monitor temperature, Offer a balanced diet
+leopard gecko,tired,Provide a cozy and comfortable resting area, Maintain proper temperature, Ensure a quiet environment, Offer a variety of hiding spots, Dim lighting during rest
+leopard gecko,surprised,Introduce novel items in the habitat, Offer new types of insects, Rearrange hiding spots, Provide interactive toys, Observe from a distance
+bearded dragon,happy,Bask under proper lighting, Offer a variety of insects, Create a comfortable basking area, Gentle handling, Provide a spacious habitat
+bearded dragon,sad,Ensure proper temperature and lighting, Provide a quiet environment, Offer a comfortable resting spot, Provide a balanced diet, Gentle interactions
+bearded dragon,fearful,Gradual introduction to new environments, Provide secure hiding spots,,,
+hens,happy,Free-range pecking, Dust bathing, Sunbathing, Foraging for insects, Fresh water and feed
+hens,sad,Provide comfortable roosting, Quiet environment, Fresh straw bedding, Offer nutritious treats, Gentle handling
+hens,fearful,Gradual exposure to new surroundings, Provide hiding spots, Gentle reassurance, Calm environment, Quiet feed time
+hens,anxious,Establish a feeding routine, Provide secure coop, Gentle interactions, Offer a variety of perches, Calming background sounds
+hens,disgusted,Clean coop regularly, Provide fresh water and feed, Dust bathing area, Grooming session, Comfortable nesting boxes
+hens,hateful,Respect personal space, Gentle handling, Offer nesting privacy, Create a calm environment, Provide favorite treats
+hens,traumatized,Gradual reintroduction to handling, Create a secure coop environment, Monitor overall health, Gentle interactions, Comfortable roosting spots
+hens,sleepless,Provide a quiet coop, Dim lighting during the night, Comfortable roosting bars, Ensure security, Offer calming sounds
+hens,tired,Comfortable nesting boxes, Soft bedding, Calm and quiet coop, Provide a cozy roosting area, Dim lighting during rest
+hens,surprised,Introduce new foraging opportunities, Offer novel treats, Rearrange coop layout, Provide interactive toys, Observe from a distance
+cows,happy,Open pasture grazing, Sunbathing, Fresh water source, Provide shade, Grooming session
+cows,sad,Comfortable resting area, Quiet environment, Gentle grooming, Provide fresh hay, Treat time
+cows,fearful,Gradual exposure to new surroundings, Provide secure fencing, Calm interactions, Quiet feeding time, Gentle handling
+cows,anxious,Establish a feeding routine, Provide a routine for milking, Gentle interactions, Offer a variety of forage, Calming background sounds
+cows,disgusted,Clean and maintain the barn, Fresh water and feed, Grooming session, Comfortable resting area, Treats
+cows,hateful,Respect personal space, Gentle grooming, Provide shade, Create a calm environment, Offer favorite treats
+cows,traumatized,Gradual reintroduction to handling, Create a secure barn environment, Monitor overall health, Gentle interactions, Comfortable resting area
+cows,sleepless,Provide a quiet barn, Dim lighting during the night, Comfortable resting area, Ensure security, Offer calming sounds
+cows,tired,Comfortable resting area, Soft bedding, Calm and quiet barn, Provide a cozy stall, Dim lighting during rest
+cows,surprised,Introduce new foraging opportunities, Offer novel treats, Rearrange barn layout, Provide interactive toys, Observe from a distance
+buffalo,happy,Open pasture grazing, Sunbathing, Fresh water source, Provide shade, Grooming session
+buffalo,sad,Comfortable resting area, Quiet environment, Gentle grooming, Provide fresh hay, Treat time
+buffalo,fearful,Gradual exposure to new surroundings, Provide secure fencing, Calm interactions, Quiet feeding time, Gentle handling
+buffalo,anxious,Establish a feeding routine, Provide a routine for milking, Gentle interactions, Offer a variety of forage, Calming background sounds
+buffalo,disgusted,Clean and maintain the barn, Fresh water and feed, Grooming session, Comfortable resting area, Treats
+buffalo,hateful,Respect personal space, Gentle grooming, Provide shade, Create a calm environment, Offer favorite treats
+buffalo,traumatized,Gradual reintroduction to handling, Create a secure barn environment, Monitor overall health, Gentle interactions, Comfortable resting area
+buffalo,sleepless,Provide a quiet barn, Dim lighting during the night, Comfortable resting area, Ensure security, Offer calming sounds
+buffalo,tired,Comfortable resting area, Soft bedding, Calm and quiet barn, Provide a cozy stall, Dim lighting during rest
+buffalo,surprised,Introduce new foraging opportunities, Offer novel treats, Rearrange barn layout, Provide interactive toys, Observe from a distance
+goats,happy,Open pasture grazing, Climbing structures, Fresh water source, Provide shade, Grooming session
+goats,sad,Comfortable resting area, Quiet environment, Gentle grooming, Provide fresh hay, Treat time
+goats,fearful,Gradual exposure to new surroundings, Provide secure fencing, Calm interactions, Quiet feeding time, Gentle handling
+goats,anxious,Establish a feeding routine, Provide climbing opportunities, Gentle interactions, Offer a variety of forage, Calming background sounds
+goats,disgusted,Clean and maintain the barn, Fresh water and feed, Grooming session, Comfortable resting area, Treats
+goats,hateful,Respect personal space, Gentle grooming, Provide shade, Create a calm environment, Offer favorite treats
+goats,traumatized,Gradual reintroduction to handling, Create a secure barn environment, Monitor overall health, Gentle interactions, Comfortable resting area
+goats,sleepless,Provide a quiet barn, Dim lighting during the night, Comfortable resting area, Ensure security, Offer calming sounds
+goats,tired,Comfortable resting area, Soft bedding, Calm and quiet barn, Provide a cozy stall, Dim lighting during rest
+goats,surprised,Introduce new climbing structures, Offer novel treats, Rearrange barn layout, Provide interactive toys, Observe from a distance
+sheep,happy,Open pasture grazing, Sunbathing, Fresh water source, Provide shade, Grooming session
+sheep,sad,Comfortable resting area, Quiet environment, Gentle grooming, Provide fresh hay, Treat time
+sheep,fearful,Gradual exposure to new surroundings, Provide secure fencing, Calm interactions, Quiet feeding time, Gentle handling
+sheep,anxious,Establish a feeding routine, Provide shade, Gentle interactions, Offer a variety of forage, Calming background sounds
+sheep,disgusted,Clean and maintain the barn, Fresh water and feed, Grooming session, Comfortable resting area, Treats
+sheep,hateful,Respect personal space, Gentle grooming, Provide shade, Create a calm environment, Offer favorite treats
+sheep,traumatized,Gradual reintroduction to handling, Create a secure barn environment, Monitor overall health, Gentle interactions, Comfortable resting area
+sheep,sleepless,Provide a quiet barn, Dim lighting during the night, Comfortable resting area, Ensure security, Offer calming sounds
+sheep,tired,Comfortable resting area, Soft bedding, Calm and quiet barn, Provide a cozy stall, Dim lighting during rest
+sheep,surprised,Introduce new foraging opportunities, Offer novel treats, Rearrange barn layout, Provide interactive toys, Observe from distance
+rabbits,happy,Play with toys, Provide a digging box, Free-roam time, Fresh vegetables, Grooming session
+rabbits,sad,Gentle petting, Quiet environment, Favorite treats, Comfortable resting area, Cozy bedding
+rabbits,fearful,Gradual exposure to new environments, Provide hiding spots, Gentle reassurance, Calm environment, Quiet playtime
+rabbits,anxious,Establish a routine, Provide a secure enclosure, Gentle handling, Offer a variety of toys, Calming background sounds
+rabbits,disgusted,Clean and maintain living space, Fresh hay and water, Grooming session, Comfortable resting area, Treats
+rabbits,hateful,Respect personal space, Provide hiding spots, Calm environment, Gentle interaction, Offer favorite treats
+rabbits,traumatized,Gentle and patient interaction, Create a secure environment, Calm and soothing activities, Slow introduction to new things, Comfortable resting area
+rabbits,sleepless,Establish a bedtime routine, Provide a quiet sleeping area, Comfortable bedding, Low lighting in the evening, Gentle play before bedtime
+rabbits,tired,Comfortable resting area, Soft blankets and cushions, Calm and quiet environment, Provide a cozy bed, Dim lighting during rest
+rabbits,surprised,Introduce new toys, Create an enriching environment, Gentle and unexpected interactions, Variety in daily routine, Interactive play
+mice,happy,Exploring time, Provide a variety of toys, Climbing structures, Fresh water source, Social interaction
+mice,sad,Comfortable nesting area, Quiet environment, Gentle handling, Provide fresh bedding, Treat time
+mice,fearful,Gradual exposure to new surroundings, Provide secure enclosure, Calm interactions, Quiet feeding time, Gentle handling
+mice,anxious,Establish a feeding routine, Provide a hiding spot, Gentle interactions, Offer a variety of toys, Calming background sounds
+mice,disgusted,Clean and maintain the habitat, Fresh water and feed, Grooming session, Comfortable resting area, Treats
+mice,hateful,Respect personal space, Gentle handling, Provide hiding spots, Create a calm environment, Offer favorite treats
+mice,traumatized,Gradual reintroduction to handling, Create a secure habitat environment, Monitor overall health, Gentle interactions, Comfortable nesting area
+mice,sleepless,Provide a quiet habitat, Dim lighting during the night, Comfortable nesting area, Ensure security, Offer calming sounds
+mice,tired,Comfortable nesting area, Soft bedding, Calm and quiet habitat, Provide a cozy area, Dim lighting during rest
+mice,surprised,Introduce new toys, Offer novel treats, Rearrange habitat layout, Provide interactive toys, Observe from a distance
+sugar glider,happy,Provide a spacious habitat, Offer a variety of toys, Climbing structures, Fresh fruit treats, Social interaction
+sugar glider,sad,Comfortable sleeping area, Quiet environment, Gentle handling, Provide fresh bedding, Treat time
+sugar glider,fearful,Gradual exposure to new environments, Provide secure enclosure, Calm interactions, Quiet feeding time, Gentle handling
+sugar glider,anxious,Establish a feeding routine, Provide a hiding spot, Gentle interactions, Offer a variety of toys, Calming background sounds
+sugar glider,disgusted,Clean and maintain the habitat, Fresh water and feed, Grooming session, Comfortable sleeping area, Treats
+sugar glider,hateful,Respect personal space, Gentle handling, Provide hiding spots, Create a calm environment, Offer favorite treats
+sugar glider,traumatized,Gradual reintroduction to handling, Create a secure habitat environment, Monitor overall health, Gentle interactions, Comfortable sleeping area
+sugar glider,sleepless,Provide a quiet habitat, Dim lighting during the night, Comfortable sleeping area, Ensure security, Offer calming sounds
+sugar glider,tired,Comfortable sleeping area, Soft bedding, Calm and quiet habitat, Provide a cozy area, Dim lighting during rest
+sugar glider,surprised,Introduce new toys, Offer novel treats, Rearrange habitat layout, Provide interactive toys, Observe from a distance
+fennec fox,happy,Exploring time, Provide a variety of toys, Climbing structures, Fresh water source, Social interaction
+fennec fox,sad,Comfortable resting area, Quiet environment, Gentle handling, Provide fresh bedding, Treat time
+fennec fox,fearful,Gradual exposure to new surroundings, Provide secure enclosure, Calm interactions, Quiet feeding time, Gentle handling
+fennec fox,anxious,Establish a feeding routine, Provide a hiding spot, Gentle interactions, Offer a variety of toys, Calming background sounds
+fennec fox,disgusted,Clean and maintain the habitat, Fresh water and feed, Grooming session, Comfortable resting area, Treats
+fennec fox,hateful,Respect personal space, Gentle handling, Provide hiding spots, Create a calm environment, Offer favorite treats
+fennec fox,traumatized,Gradual reintroduction to handling, Create a secure habitat environment, Monitor overall health, Gentle interactions, Comfortable resting area
+fennec fox,sleepless,Provide a quiet habitat, Dim lighting during the night, Comfortable resting area, Ensure security, Offer calming sounds
+fennec fox,tired,Comfortable resting area, Soft bedding, Calm and quiet habitat, Provide a cozy area, Dim lighting during rest
+fennec fox,surprised,play outdoor games,Gentle interactions,Offer favorite treats,,
+monkeys,happy,Provide a spacious and enriched enclosure, Offer a variety of toys, Fresh fruits and vegetables, Social interaction, Climbing structures
+monkeys,sad,Comfortable resting area, Quiet environment, Gentle handling, Provide fresh water, Treat time
+monkeys,fearful,Gradual exposure to new surroundings, Provide secure enclosure, Calm interactions, Quiet feeding time, Gentle handling
+monkeys,anxious,Establish a feeding routine, Provide a hiding spot, Gentle interactions, Offer a variety of toys, Calming background sounds
+monkeys,disgusted,Clean and maintain the enclosure, Fresh water and feed, Grooming session, Comfortable resting area, Treats
+monkeys,hateful,Respect personal space, Gentle handling, Provide climbing structures, Create a calm environment, Offer favorite fruits
+monkeys,traumatized,Gradual reintroduction to handling, Create a secure enclosure environment, Monitor overall health, Gentle interactions, Comfortable resting area
+monkeys,sleepless,Provide a quiet enclosure, Dim lighting during the night, Comfortable resting area, Ensure security, Offer calming sounds
+monkeys,tired,Comfortable resting area, Soft bedding, Calm and quiet enclosure, Provide a cozy spot, Dim lighting during rest
+monkeys,surprised,Introduce new toys, Offer novel treats, Rearrange enclosure layout, Provide interactive toys, Observe from a distance
+frogs,happy,Provide a comfortable aquatic habitat, Offer a variety of insects, Sunbathing, Fresh water source, Social interaction
+frogs,sad,Comfortable resting area, Quiet environment, Gentle handling, Provide fresh water, Treat time
+frogs,fearful,Gradual exposure to new surroundings, Provide secure habitat, Calm interactions, Quiet feeding time, Gentle handling
+frogs,anxious,Establish a feeding routine, Provide a hiding spot, Gentle interactions, Offer a variety of insects, Calming background sounds
+frogs,disgusted,Clean and maintain the habitat, Fresh water and feed, Grooming session, Comfortable resting area, Treats
+frogs,hateful,Respect personal space, Gentle handling, Provide hiding spots, Create a calm environment, Offer favorite insects
+frogs,traumatized,Gradual reintroduction to handling, Create a secure habitat environment, Monitor overall health, Gentle interactions, Comfortable resting area
+frogs,sleepless,Provide a quiet habitat, Dim lighting during the night, Comfortable resting area, Ensure security, Offer calming sounds
+frogs,tired,Comfortable resting area, Soft substrate, Calm and quiet habitat, Provide a cozy spot, Dim lighting during rest
+frogs,surprised,Introduce new aquatic features, Offer novel insects, Rearrange habitat layout, Provide interactive toys, Observe from a distance
+butterflies,happy,Provide a spacious and sunny environment, Offer a variety of nectar sources, Fresh fruits, Sunbathing, Social interaction
+butterflies,sad,Comfortable resting area, Quiet environment, Gentle handling, Provide fresh nectar, Treat time
+butterflies,fearful,Gradual exposure to new surroundings, Provide secure habitat, Calm interactions, Quiet feeding time, Gentle handling
+butterflies,anxious,Establish a feeding routine, Provide a hiding spot, Gentle interactions, Offer a variety of nectar, Calming background sounds
+butterflies,disgusted,Clean and maintain the habitat, Fresh water and fruits, Grooming session, Comfortable resting area, Treats
+butterflies,hateful,Respect personal space, Gentle handling, Provide resting spots, Create a calm environment, Offer favorite nectar
+butterflies,traumatized,Gradual reintroduction to handling, Create a secure habitat environment, Monitor overall health, Gentle interactions, Comfortable resting area
+butterflies,sleepless,Provide a quiet habitat, Dim lighting during the night, Comfortable resting area, Ensure security, Offer calming sounds
+butterflies,tired,Comfortable resting area, Soft substrate, Calm and quiet habitat, Provide a cozy spot, Dim lighting during rest
+butterflies,surprised,Introduce new nectar sources, Offer novel fruits, Rearrange habitat layout, Provide interactive toys, Observe from a distance
+parrots,happy,Provide a spacious cage, Offer a variety of toys, Fresh fruits and vegetables, Social interaction, Mimicry play
+parrots,sad,Comfortable perching area, Quiet environment, Gentle handling, Provide fresh water, Treat time
+parrots,fearful,Gradual exposure to new surroundings, Provide secure cage, Calm interactions, Quiet feeding time, Gentle handling
+parrots,anxious,Establish a feeding routine, Provide a hiding spot, Gentle interactions, Offer a variety of toys, Calming background sounds
+parrots,disgusted,Clean and maintain the cage, Fresh water and feed, Grooming session, Comfortable perching area, Treats
+parrots,hateful,Respect personal space, Gentle handling, Provide perching spots, Create a calm environment, Offer favorite treats
+parrots,traumatized,Gradual reintroduction to handling, Create a secure cage environment, Monitor overall health, Gentle interactions, Comfortable perching area
+parrots,sleepless,Provide a quiet cage, Dim lighting during the night, Comfortable perching area, Ensure security, Offer calming sounds
+parrots,tired,Comfortable perching area, Soft bedding, Calm and quiet cage, Provide a cozy spot, Dim lighting during rest
+parrots,surprised,Introduce new toys, Offer novel treats, Rearrange cage layout, Provide interactive toys, Observe from a distance
+pigs,happy,Provide a spacious and enriched pen, Mud bath, Fresh vegetables and fruits, Social interaction, Rooting play
+pigs,sad,Comfortable resting area, Quiet environment, Gentle handling, Provide fresh water, Treat time
+pigs,fearful,Gradual exposure to new surroundings, Provide secure pen, Calm interactions, Quiet feeding time, Gentle handling
+pigs,anxious,Establish a feeding routine, Provide a hiding spot, Gentle interactions, Offer a variety of vegetables, Calming background sounds
+pigs,disgusted,Clean and maintain the pen, Fresh water and feed, Grooming session, Comfortable resting area, Treats
+pigs,hateful,Respect personal space, Gentle handling, Provide rooting spots, Create a calm environment, Offer favorite treats
+pigs,traumatized,Gradual reintroduction to handling, Create a secure pen environment, Monitor overall health, Gentle interactions, Comfortable resting area
+pigs,sleepless,Provide a quiet pen, Dim lighting during the night, Comfortable resting area, Ensure security, Offer calming sounds
+pigs,tired,Comfortable resting area, Soft bedding, Calm and quiet pen, Provide a cozy spot, Dim lighting during rest
+pigs,surprised,Introduce new rooting opportunities, Offer novel vegetables, Rearrange pen layout, Provide interactive toys, Observe from a distance
+owls,sad,Comfortable roosting area, Quiet environment, Gentle handling, Provide fresh water, Treat time
+owls,fearful,Gradual exposure to new surroundings, Provide secure roosting area, Calm interactions, Quiet feeding time, Gentle handling
+owls,anxious,Establish a feeding routine, Provide a hiding spot, Gentle interactions, Offer a variety of prey, Calming background sounds
+owls,disgusted,Clean and maintain the roosting area, Fresh water and feed, Grooming session, Comfortable roosting area, Treats
+owls,hateful,Respect personal space, Gentle handling, Provide roosting spots, Create a calm environment, Offer favorite prey
+owls,traumatized,Gradual reintroduction to handling, Create a secure roosting area environment, Monitor overall health, Gentle interactions, Comfortable roosting area
+owls,sleepless,Provide a quiet roosting area, Dim lighting during the night, Comfortable roosting area, Ensure security, Offer calming sounds
+owls,tired,Comfortable roosting area, Soft bedding, Calm and quiet roosting area, Provide a cozy spot, Dim lighting during rest
+owls,surprised,Introduce new prey options, Offer novel treats, Rearrange roosting area layout, Provide interactive toys, Observe from a distance
+hamsters,happy,Provide a cozy and enriched cage, Exercise wheel, Fresh fruits and vegetables, Social interaction, Tunnels and hiding spots
+hamsters,sad,Comfortable bedding, Quiet environment, Gentle handling, Provide fresh water, Treat time
+hamsters,fearful,Gradual exposure to new surroundings, Provide secure cage, Calm interactions, Quiet feeding time, Gentle handling
+hamsters,anxious,Establish a feeding routine, Provide a hiding spot, Gentle interactions, Offer a variety of treats, Calming background sounds
+hamsters,disgusted,Clean and maintain the cage, Fresh water and feed, Grooming session, Comfortable bedding, Treats
+hamsters,hateful,Respect personal space, Gentle handling, Provide climbing structures, Create a calm environment, Offer favorite treats
+hamsters,traumatized,Gradual reintroduction to handling, Create a secure cage environment, Monitor overall health, Gentle interactions, Comfortable bedding
+hamsters,sleepless,Provide a quiet cage, Dim lighting during the night, Comfortable bedding, Ensure security, Offer calming sounds
+hamsters,tired,Comfortable bedding, Soft substrate, Calm and quiet cage, Provide a cozy spot, Dim lighting during rest
+hamsters,surprised,Introduce new toys, Offer novel treats, Rearrange cage layout, Provide interactive toys, Observe from a distance
+rabbits,happy,Spacious and enriched enclosure, Hay and fresh vegetables, Social interaction, Provide tunnels for play, Grooming time
+rabbits,sad,Comfortable resting area, Quiet environment, Gentle handling, Provide fresh water, Treat time
+rabbits,fearful,Gradual exposure to new surroundings, Provide secure enclosure, Calm interactions, Quiet feeding time, Gentle handling
+rabbits,anxious,Establish a feeding routine, Provide a hiding spot, Gentle interactions, Offer a variety of vegetables, Calming background sounds
+rabbits,disgusted,Clean and maintain the enclosure, Fresh water and feed, Grooming session, Comfortable resting area, Treats
+rabbits,hateful,Respect personal space, Gentle handling, Provide hopping spaces, Create a calm environment, Offer favorite vegetables
+rabbits,traumatized,Gradual reintroduction to handling, Create a secure enclosure environment, Monitor overall health, Gentle interactions, Comfortable resting area
+rabbits,sleepless,Provide a quiet enclosure, Dim lighting during the night, Comfortable resting area, Ensure security, Offer calming sounds
+rabbits,tired,Comfortable resting area, Soft bedding, Calm and quiet enclosure, Provide a cozy spot, Dim lighting during rest
+rabbits,surprised,Introduce new toys, Offer novel treats, Rearrange enclosure layout, Provide interactive toys, Observe from a distance
+turtles,happy,Spacious and aquatic habitat, Basking area, Fresh and varied diet, Social interaction, Provide hiding spots
+turtles,sad,Comfortable basking area, Quiet environment, Gentle handling, Provide fresh water, Treat time
+turtles,fearful,Gradual exposure to new surroundings, Provide secure habitat, Calm interactions, Quiet feeding time, Gentle handling
+turtles,anxious,Establish a feeding routine, Provide a hiding spot, Gentle interactions, Offer a variety of food, Calming background sounds
+turtles,disgusted,Clean and maintain the habitat, Fresh water and feed, Grooming session, Comfortable basking area, Treats
+turtles,hateful,Respect personal space, Gentle handling, Provide swimming spaces, Create a calm environment, Offer favorite food
+turtles,traumatized,Gradual reintroduction to handling, Create a secure habitat environment, Monitor overall health, Gentle interactions, Comfortable basking area
+turtles,sleepless,Provide a quiet habitat, Dim lighting during the night, Comfortable basking area, Ensure security, Offer calming sounds
+turtles,tired,Comfortable basking area, Soft substrate, Calm and quiet habitat, Provide a cozy spot, Dim lighting during rest
+turtles,surprised,Introduce new aquatic features, Offer novel food items, Rearrange habitat layout, Provide interactive toys, Observe from a distance
